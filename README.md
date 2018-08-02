@@ -1,5 +1,5 @@
 # It's To-Do List: The App
-A simple to-do list application built while I was learning and exploring MEAN stack.
+A simple to-do list application built when I was first learning and exploring MEAN stack.
 
  ## Screenshots
 
