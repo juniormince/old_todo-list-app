@@ -1,0 +1,91 @@
+@font-face {
+    font-family: 'blurmedium';
+    src: url('blur_medium/blur_medium-webfont.woff2') format('woff2'),
+         url('blur_medium/blur_medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    
+    font-family: 'blurregular';
+    src: url('blur_regular/blur_regular-webfont.woff2') format('woff2'),
+         url('blur_regular/blur_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body {
+    background: #ff7d1d;
+    padding: 50px 100px 50px;
+    letter-spacing: 3px;
+    font-family: 'blurregular', 'Courier New';
+    color: black;
+    padding: 100px 350px;
+}
+
+h1  {
+    font-size: 36px;
+    /* line-height: 1.1px; */
+    letter-spacing: .7px;
+    /* font-family: 'blurmedium', 'Courier New'; */
+}
+
+table   {
+    width: 80%;
+}
+
+#titleCard  {
+    line-height: .6px;
+}
+
+#it {
+    text-indent: 9%;
+    color: black;
+}
+#todo   {
+    text-indent: 6%;
+    color: white;
+}
+
+#theApp {
+    text-indent: 12%;
+}
+
+#taskButton {
+    font-family: 'blurregular', 'Courier New';
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+#updateButton {
+    font-family: 'blurregular', 'Courier New';
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+#deleteButton {
+    font-family: 'blurregular', 'Courier New';
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+input {
+    font-family: 'blurregular', 'Courier New';
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+.taskList   {
+    font-family: 'blurregular', 'Courier New';
+    /* font-size: 26px; */
+    line-height: 1.6;
+    letter-spacing: 3px;
+    
+}
+
+.done   {
+    background: green;
+}
+
+.unDone {
+    background: red;
+}
