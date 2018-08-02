@@ -3,8 +3,7 @@ A simple to-do list application built when I was first learning and exploring ME
 
  ## Screenshots
 
-<img src="screenshots/todo-index.png" width="250">
-![home page](screenshots/todo-tasks.png "home page" | width=250)
+<img src="screenshots/todo-index.png" width="300"> <img src="screenshots/todo-tasks.png" width="300">
 
  ## Technologies used:
  
